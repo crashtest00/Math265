@@ -1,5 +1,4 @@
-This repository contains code to support the examples in the Apex Calculus textbook which is included
-in this repo.
+This repository contains code to support the examples in the Apex Calculus textbook (Calculus.pdf)
 
 All derivatives are computed outside the notebook and then translated into Python. 
 
